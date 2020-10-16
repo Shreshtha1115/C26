@@ -1,2 +1,2 @@
-# C26
-git and github (terminal)
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
